@@ -60,7 +60,7 @@
 - 💼 **5+ Years Experience** building web & mobile apps
 - 💬 Fluent in English, Arabic, and Hebrew
 - 🌐 Built multiple responsive websites, iOS apps, AI experiments, and backend systems
-- 🧠 Currently diving into AI/ML and real-time app development
+- 🧠 Currently learning AI/ML while building secure and performant full-stack systems
 - 🤝 Loves collaborating, mentoring, and contributing to open-source
 
 ---
