@@ -32,10 +32,23 @@
 ---
 
 ## 📈 GitHub Stats
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadinasir&show_icons=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadinasir&layout=compact&theme=react&hide_border=true)
 
+<div align="center">
+  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=HA11723&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=HA11723&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA11723&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+</div>
 ---
+
+
 
 ## 🔍 About Me
 
@@ -63,7 +76,8 @@
 ## 📬 Get in Touch
 
 If you’re interested in collaboration, hiring, or just chatting tech — let’s connect!  
-📧 hadi.nasir.dev@gmail.com  
+📧 hadinasser067@gmail.com
+📲+1-778-957-9011
 
 > *"The best way to predict the future is to create it."*
 
