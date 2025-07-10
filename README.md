@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Hadi Nasir!
 
-🚀 Passionate Full Stack Developer with AI & QA Expertise
-  
+🚀 Passionate Full-Stack Developer & Problem Solver  
 📍 Based in Vancouver, BC — Open to Remote & On-Site Opportunities  
 
 ---
@@ -45,7 +44,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HA11723&theme=tokyo-night&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA11723&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA11723&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)
 
 </div>
 
