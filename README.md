@@ -8,9 +8,9 @@
 🎓 I'm currently studying **Computer Science & Technology** at **Langara College**, Canada.  
 🧪 I also hold certifications in **Software Testing** (IPC College).
 
-💡 My journey as a Freelance Full-Stack Developer, I have designed and deployed custom web and mobile applications, focusing on real-time systems, e-commerce, and cloud integration. My past roles also provided me with experience in IT support,         networking, and software testing.
+💡 My journey as a Freelance Full-Stack Developer, I have designed and deployed custom web and mobile applications, focusing on real-time systems, e-commerce, and cloud integration. My past roles also provided me with experience in IT support, networking, and software testing.
 
-   Now, I am eager to bring my knowledge, enthusiasm, and hands-on experience in web development to a professional environment. I am actively seeking opportunities in web development where I can continue learning, growing, and contributing to        dynamic teams and exciting projects.
+   Now, I am eager to bring my knowledge, enthusiasm, and hands-on experience in web development to a professional environment. I am actively seeking opportunities in web development where I can continue learning, growing, and contributing to dynamic teams and exciting projects.
 
 🛠️ Interests: Web Development, iOS Development, AI/ML, Problem Solving, and Building Real-World Projects.
 
@@ -39,21 +39,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=HA11723&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=HA11723&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA11723&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-  </tr>
-</table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA11723&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HA11723&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA11723&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
 ---
-
-
 
 ## 🔍 About Me
 
@@ -80,11 +75,10 @@
 
 ## 📬 Get in Touch
 
-If you’re interested in collaboration, hiring, or just chatting tech — let’s connect!  
-📧 hadinasser067@gmail.com
-📲+1-778-957-9011
+If you're interested in collaboration, hiring, or just chatting tech — let's connect!  
+📧 hadinasser067@gmail.com  
+📲 +1-778-957-9011
 
 > *"The best way to predict the future is to create it."*
 
 ---
-
