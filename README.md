@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Hadi Nasir!
 
-🚀 Passionate Full-Stack Developer & Problem Solver  
+🚀 Passionate Full-Stack Developer with AI & QA Expertise  
 📍 Based in Vancouver, BC — Open to Remote & On-Site Opportunities  
 
 ---
