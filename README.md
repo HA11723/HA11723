@@ -5,7 +5,7 @@
 
 ---
 
-🎓 I'm currently studying **Computer Science & Technology** at **Langara College**, Canada.  
+🎓 Diploma in Computer Science, Minor in Business at **Langara College**, Canada.  
 🧪 I also hold certifications in **Software Testing** (IPC College).
 
 💡 My journey as a Freelance Full-Stack Developer, I have designed and deployed custom web and mobile applications, focusing on real-time systems, e-commerce, and cloud integration. My past roles also provided me with experience in IT support, networking, and software testing.
