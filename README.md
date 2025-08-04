@@ -12,7 +12,9 @@
 
    Now, I am eager to bring my knowledge, enthusiasm, and hands-on experience in web development to a professional environment. I am actively seeking opportunities in web development where I can continue learning, growing, and contributing to dynamic teams and exciting projects.
 
-🛠️ Interests: Web Development, iOS Development, AI/ML, Problem Solving, and Building Real-World Projects.
+🛠️ Interests: Full-Stack Development, Artificial Intelligence, Machine Learning, and Building Scalable Software Solutions.
+
+
 
 ---
 
