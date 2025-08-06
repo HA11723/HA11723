@@ -33,17 +33,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA11723&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8)
-
-</div>
-
 ---
 
 ## 🔍 About Me
